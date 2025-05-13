@@ -1,0 +1,8 @@
+Blood Cancer Detection and Classification using Deep Learning.
+
+Algorithm / Model Used: MobileNetV2 Architecture.
+
+Training Accuracy of 98.00%. and 
+Validation Accuracy of 96.00%.
+
+
